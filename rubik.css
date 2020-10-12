@@ -40,3 +40,8 @@ background-color: white;
 li {
   font-weight: bold;
 }
+
+ul {
+list-style-type: square;
+}
+
